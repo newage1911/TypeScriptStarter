@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\StarterNodeJS"
+		},
+		{
+			"path": "..\\..\\..\\webcon"
+		},
+		{
+			"path": "..\\..\\..\\react"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webcon"
+	}
+}
